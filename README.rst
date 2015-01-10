@@ -12,6 +12,6 @@ But really, there is nothing you can do with this.
 * Unnumbered Items
 
 1) But these
-1) Are
-1) Numbered
+2) Are
+3) Numbered
 
